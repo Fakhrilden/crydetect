@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "70291506501",
+    "project_id": "crydetect-3131e",
+    "storage_bucket": "crydetect-3131e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70291506501:android:d7168c3247ad0b8407aa2c",
+        "android_client_info": {
+          "package_name": "com.example.crydetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70291506501-2lq6hrv8qaa5bujmbso2u916t0d513n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0S2YasFZPZYHoj2x1OVRAEANT6WXzPlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70291506501-2lq6hrv8qaa5bujmbso2u916t0d513n5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70291506501-nfcrc15m262d31lkb16a8iuk9euuupnu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crydetect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
