@@ -1,5 +1,4 @@
 # CryDetect
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Fakhrilden/crydetect)
 
 CryDetect is a cross-platform mobile application built with Flutter that helps new parents understand their baby's needs by analyzing the sound of their cries. It leverages a deep learning model to classify cries into various categories such as hunger, discomfort, or tiredness, providing valuable insights to caregivers.
 
